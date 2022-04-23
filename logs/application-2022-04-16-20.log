@@ -1,0 +1,478 @@
+{
+  error: /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:28
+          const newOrderResult = await newOrder.save();
+                                 ^^^^^
+  
+  SyntaxError: await is only valid in async function
+      at wrapSafe (internal/modules/cjs/loader.js:984:16)
+      at Module._compile (internal/modules/cjs/loader.js:1032:27)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:39:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30),
+  level: 'error',
+  message: 'uncaughtException: await is only valid in async function\n' +
+    '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:28\n' +
+    '        const newOrderResult = await newOrder.save();\n' +
+    '                               ^^^^^\n' +
+    '\n' +
+    'SyntaxError: await is only valid in async function\n' +
+    '    at wrapSafe (internal/modules/cjs/loader.js:984:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1032:27)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:39:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)',
+  stack: '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:28\n' +
+    '        const newOrderResult = await newOrder.save();\n' +
+    '                               ^^^^^\n' +
+    '\n' +
+    'SyntaxError: await is only valid in async function\n' +
+    '    at wrapSafe (internal/modules/cjs/loader.js:984:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1032:27)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:39:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)',
+  exception: true,
+  date: 'Sat Apr 16 2022 20:05:55 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 5968,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 62128128,
+      heapTotal: 34721792,
+      heapUsed: 22253112,
+      external: 20054858,
+      arrayBuffers: 18505318
+    }
+  },
+  os: {
+    loadavg: [ 2.2646484375, 2.35107421875, 2.5126953125 ],
+    uptime: 14734
+  },
+  trace: [
+    {
+      column: 16,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'wrapSafe',
+      line: 984,
+      method: null,
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1032,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 39,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T14:35:55.398Z'
+}
+{
+  error: /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:28
+          const newOrderResult = await newOrder.save();
+                                 ^^^^^
+  
+  SyntaxError: await is only valid in async function
+      at wrapSafe (internal/modules/cjs/loader.js:984:16)
+      at Module._compile (internal/modules/cjs/loader.js:1032:27)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:39:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30),
+  level: 'error',
+  message: 'uncaughtException: await is only valid in async function\n' +
+    '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:28\n' +
+    '        const newOrderResult = await newOrder.save();\n' +
+    '                               ^^^^^\n' +
+    '\n' +
+    'SyntaxError: await is only valid in async function\n' +
+    '    at wrapSafe (internal/modules/cjs/loader.js:984:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1032:27)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:39:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)',
+  stack: '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:28\n' +
+    '        const newOrderResult = await newOrder.save();\n' +
+    '                               ^^^^^\n' +
+    '\n' +
+    'SyntaxError: await is only valid in async function\n' +
+    '    at wrapSafe (internal/modules/cjs/loader.js:984:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1032:27)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:39:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)',
+  exception: true,
+  date: 'Sat Apr 16 2022 20:08:20 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 6006,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 63078400,
+      heapTotal: 34983936,
+      heapUsed: 22280568,
+      external: 20054858,
+      arrayBuffers: 18505318
+    }
+  },
+  os: { loadavg: [ 2.28125, 2.37451171875, 2.494140625 ], uptime: 14879 },
+  trace: [
+    {
+      column: 16,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'wrapSafe',
+      line: 984,
+      method: null,
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1032,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 39,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T14:38:20.512Z'
+}
+{
+  message: '::1 - - [16/Apr/2022:14:39:00 +0000] "POST /v1/pay/cod HTTP/1.1" - - "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-16T14:39:00.950Z'
+}
+{
+  message: '::1 - - [16/Apr/2022:14:43:38 +0000] "POST /v1/admin/product HTTP/1.1" 200 349 "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-16T14:43:38.930Z'
+}
+{
+  message: '::1 - - [16/Apr/2022:14:44:36 +0000] "POST /v1/admin/product HTTP/1.1" 200 349 "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-16T14:44:36.174Z'
+}
+{
+  message: '::1 - - [16/Apr/2022:14:46:37 +0000] "POST /v1/pay/cod HTTP/1.1" 200 37 "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-16T14:46:37.108Z'
+}
+{
+  message: '::1 - - [16/Apr/2022:14:51:50 +0000] "POST /v1/pay/cod HTTP/1.1" 200 545 "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-16T14:51:50.245Z'
+}
+{
+  message: '::1 - - [16/Apr/2022:14:54:02 +0000] "POST /v1/pay/cod HTTP/1.1" 200 545 "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-16T14:54:02.633Z'
+}
+{
+  message: '::1 - - [16/Apr/2022:14:56:02 +0000] "POST /v1/pay/cod HTTP/1.1" 200 613 "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-16T14:56:02.639Z'
+}

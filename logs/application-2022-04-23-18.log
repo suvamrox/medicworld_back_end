@@ -1,0 +1,720 @@
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.335Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.571Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.580Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.586Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.595Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.602Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.603Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.652Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.659Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.673Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.675Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:30:05 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:30:05.682Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:08 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:08.927Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.043Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.047Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.048Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.049Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.055Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.058Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.121Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.129Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.131Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.135Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:31:09 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:31:09.153Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:13 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:13.795Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.051Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.061Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.066Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.067Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.070Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.071Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.152Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.159Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.235Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.236Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:32:14 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:32:14.238Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.239Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.394Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.399Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.400Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.401Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.403Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.405Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.501Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.502Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.504Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.505Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:33:25 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:33:25.507Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:03 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:03.594Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:03 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:03.917Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:03 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:03.920Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:03 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:03.925Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:03 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:03.927Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:03 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:03.935Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:03 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:03.936Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:04 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:04.000Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:04 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:04.002Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:04 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:04.004Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:04 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:04.009Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:34:04 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:34:04.016Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.049Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.318Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.322Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.326Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.328Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.356Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.358Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.397Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.403Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.431Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.433Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:35:27 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:35:27.438Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.053Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.195Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.198Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.202Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.207Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.211Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.215Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.284Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.286Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.287Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.290Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:36:10 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:36:10.293Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:53 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:53.976Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.192Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.197Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.202Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.207Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.213Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.214Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.288Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.299Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.300Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.302Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:41:54 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:41:54.352Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:20 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:20.864Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:20 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:20.992Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:20 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:20.996Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.000Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.003Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.101Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.103Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.113Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.190Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.191Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.193Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:44:21 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:44:21.194Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.165Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.369Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.372Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.382Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.383Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.401Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.402Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.461Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.477Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.488Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.489Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:52:30 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:52:30.501Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.327Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.460Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.463Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.464Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.465Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.501Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.503Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.580Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.584Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.587Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.588Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:12:56:06 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T12:56:06.600Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:08 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:08.776Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:08 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:08.929Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:08 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:08.954Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:08 +0000] "GET /v1/category/6262fcb32ccfac053fecb1d4/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:08.955Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:08 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:08.957Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:08 +0000] "GET /v1/category/6262fd8c2ccfac053fecb1da/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:08.975Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:08 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:08.976Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:09 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:09.023Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:09 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:09.048Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:09 +0000] "GET /v1/category/6262fdcf2ccfac053fecb1e6/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:09.049Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:09 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:09.051Z'
+}
+{
+  message: '::1 - - [23/Apr/2022:13:03:09 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-04-23T13:03:09.065Z'
+}

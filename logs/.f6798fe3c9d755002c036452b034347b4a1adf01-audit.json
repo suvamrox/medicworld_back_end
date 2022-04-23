@@ -1,0 +1,114 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/suvamgayen/My Project/go-mart-backend/logs/.f6798fe3c9d755002c036452b034347b4a1adf01-audit.json",
+    "files": [
+        {
+            "date": 1650107980748,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-16-16.log",
+            "hash": "ab12db3e2d364b20d4057f0d7af43091"
+        },
+        {
+            "date": 1650110486070,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-16-17.log",
+            "hash": "0fb60f5efc382d29b127c4db110f8ef4"
+        },
+        {
+            "date": 1650112244531,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-16-18.log",
+            "hash": "e4240bf9e1755ad6d667561015dbc431"
+        },
+        {
+            "date": 1650115823476,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-16-19.log",
+            "hash": "cbd3f7b4addd63d3d65c91b435ebb1e9"
+        },
+        {
+            "date": 1650119755264,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-16-20.log",
+            "hash": "5fb5d41b050143eb7812a3d75a414240"
+        },
+        {
+            "date": 1650176749474,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-17-11.log",
+            "hash": "f23c96248917f79c0c7fc0ad00cb63d6"
+        },
+        {
+            "date": 1650177491380,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-17-12.log",
+            "hash": "3103b23d8e457b198b65958e50183ac2"
+        },
+        {
+            "date": 1650180662400,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-17-13.log",
+            "hash": "f839abe1fe9837e5e5e8428c7c30294e"
+        },
+        {
+            "date": 1650184991826,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-17-14.log",
+            "hash": "376587c31c3e426b1a9ee4f745389fd7"
+        },
+        {
+            "date": 1650190322919,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-17-15.log",
+            "hash": "969d450af611cb576b72b75a2e3276f3"
+        },
+        {
+            "date": 1650191724051,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-17-16.log",
+            "hash": "10c75ae063854f258e549349e3eabb15"
+        },
+        {
+            "date": 1650567666182,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-22-00.log",
+            "hash": "ee59b99b1ebb11d9768aa06c753aad3c"
+        },
+        {
+            "date": 1650569514719,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-22-01.log",
+            "hash": "bd8b698ae20e1aaa45b4e922aed25f6e"
+        },
+        {
+            "date": 1650652109030,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-22-23.log",
+            "hash": "e760bbb6b94d28f4f080ec0b2c006c59"
+        },
+        {
+            "date": 1650652216853,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-23-00.log",
+            "hash": "c3e434321d2b5776e2f2da6fd85374ea"
+        },
+        {
+            "date": 1650655871159,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-23-01.log",
+            "hash": "1fb73ad1a4d95781d918e4245f400337"
+        },
+        {
+            "date": 1650693762320,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-23-11.log",
+            "hash": "f092b9cad9b13c326e2e867bc168bd38"
+        },
+        {
+            "date": 1650708885930,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-23-15.log",
+            "hash": "ed8749fac4100ba8931c2d6e10b45f1f"
+        },
+        {
+            "date": 1650712540678,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-23-16.log",
+            "hash": "55f6ce0360dddc5ccd32f8e86bedde8a"
+        },
+        {
+            "date": 1650713468495,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-23-17.log",
+            "hash": "98aef127338c1ddf634cfdeb1f4e5f20"
+        },
+        {
+            "date": 1650717005336,
+            "name": "/Users/suvamgayen/My Project/go-mart-backend/logs/application-2022-04-23-18.log",
+            "hash": "7b4870410584b526dfadbf80d6c98f7b"
+        }
+    ]
+}

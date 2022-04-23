@@ -1,0 +1,1869 @@
+{
+  error: Error: Cannot find module '../app.controller/payment.controller'
+  Require stack:
+  - /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js
+  - /Users/suvamgayen/My Project/go-mart-backend/app.js
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../app.controller/payment.controller'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    "Error: Cannot find module '../app.controller/payment.controller'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)',
+  stack: "Error: Cannot find module '../app.controller/payment.controller'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)',
+  exception: true,
+  date: 'Sat Apr 16 2022 17:32:55 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 2605,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 62451712,
+      heapTotal: 34983936,
+      heapUsed: 22638200,
+      external: 20089149,
+      arrayBuffers: 18531232
+    }
+  },
+  os: {
+    loadavg: [ 4.20068359375, 2.662109375, 2.3662109375 ],
+    uptime: 5554
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 885,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 730,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T12:02:55.333Z'
+}
+{
+  error: Error: Cannot find module 'paypal-rest-sdk'
+  Require stack:
+  - /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js
+  - /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js
+  - /Users/suvamgayen/My Project/go-mart-backend/app.js
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:6:16)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js',
+      '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  stack: "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  exception: true,
+  date: 'Sat Apr 16 2022 17:33:29 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 2626,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 67391488,
+      heapTotal: 54833152,
+      heapUsed: 30108960,
+      external: 20954999,
+      arrayBuffers: 19381689
+    }
+  },
+  os: {
+    loadavg: [ 4.35595703125, 2.87109375, 2.45263671875 ],
+    uptime: 5588
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 885,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 730,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T12:03:29.684Z'
+}
+{
+  error: Error: Cannot find module '../function/apiValidation'
+  Require stack:
+  - /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js
+  - /Users/suvamgayen/My Project/go-mart-backend/app.js
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:7:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module '../function/apiValidation'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    "Error: Cannot find module '../function/apiValidation'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:7:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)',
+  stack: "Error: Cannot find module '../function/apiValidation'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:7:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)',
+  exception: true,
+  date: 'Sat Apr 16 2022 17:34:25 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 2689,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 61583360,
+      heapTotal: 35246080,
+      heapUsed: 22495264,
+      external: 20075433,
+      arrayBuffers: 18517558
+    }
+  },
+  os: {
+    loadavg: [ 3.4189453125, 2.87158203125, 2.47900390625 ],
+    uptime: 5644
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 885,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 730,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 7,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T12:04:25.458Z'
+}
+{
+  error: Error: Cannot find module 'paypal-rest-sdk'
+  Require stack:
+  - /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy
+  - /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js
+  - /Users/suvamgayen/My Project/go-mart-backend/app.js
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy',
+      '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  stack: "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  exception: true,
+  date: 'Sat Apr 16 2022 17:37:56 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 2781,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 67776512,
+      heapTotal: 54833152,
+      heapUsed: 30314864,
+      external: 20946824,
+      arrayBuffers: 19373497
+    }
+  },
+  os: {
+    loadavg: [ 2.39453125, 2.6806640625, 2.48095703125 ],
+    uptime: 5855
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 885,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 730,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T12:07:56.992Z'
+}
+{
+  error: Error: Cannot find module 'paypal-rest-sdk'
+  Require stack:
+  - /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy
+  - /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js
+  - /Users/suvamgayen/My Project/go-mart-backend/app.js
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy',
+      '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  stack: "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  exception: true,
+  date: 'Sat Apr 16 2022 17:38:34 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 2800,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 68325376,
+      heapTotal: 55095296,
+      heapUsed: 30105792,
+      external: 20946825,
+      arrayBuffers: 19373497
+    }
+  },
+  os: {
+    loadavg: [ 2.173828125, 2.5888671875, 2.45458984375 ],
+    uptime: 5893
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 885,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 730,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T12:08:34.596Z'
+}
+{
+  error: Error: Cannot find module 'paypal-rest-sdk'
+  Require stack:
+  - /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy
+  - /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js
+  - /Users/suvamgayen/My Project/go-mart-backend/app.js
+      at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)
+      at Function.Module._load (internal/modules/cjs/loader.js:730:27)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32) {
+    code: 'MODULE_NOT_FOUND',
+    requireStack: [
+      '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy',
+      '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ]
+  },
+  level: 'error',
+  message: "uncaughtException: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  stack: "Error: Cannot find module 'paypal-rest-sdk'\n" +
+    'Require stack:\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js\n' +
+    '- /Users/suvamgayen/My Project/go-mart-backend/app.js\n' +
+    '    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:885:15)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:730:27)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy:6:16)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:6:23)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)',
+  exception: true,
+  date: 'Sat Apr 16 2022 17:39:01 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 2817,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 68083712,
+      heapTotal: 54833152,
+      heapUsed: 30109504,
+      external: 20946827,
+      arrayBuffers: 19373497
+    }
+  },
+  os: {
+    loadavg: [ 2.18701171875, 2.5478515625, 2.44287109375 ],
+    uptime: 5920
+  },
+  trace: [
+    {
+      column: 15,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._resolveFilename',
+      line: 885,
+      method: '_resolveFilename',
+      native: false
+    },
+    {
+      column: 27,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 730,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 16,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/controller/payment.controller.copy',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 23,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 6,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T12:09:01.594Z'
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:8:8)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Module.require (internal/modules/cjs/loader.js:957:19)
+      at require (internal/modules/cjs/helpers.js:88:18)
+      at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)
+      at Module._compile (internal/modules/cjs/loader.js:1068:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)
+      at Module.load (internal/modules/cjs/loader.js:933:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:774:14)
+      at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+      at internal/main/run_main_module.js:17:47,
+  level: 'error',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:8:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n' +
+    '    at internal/main/run_main_module.js:17:47',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js:8:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:957:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:88:18)\n' +
+    '    at Object.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/app.js:38:21)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:1068:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1097:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:933:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:774:14)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n' +
+    '    at internal/main/run_main_module.js:17:47',
+  exception: true,
+  date: 'Sat Apr 16 2022 17:39:13 GMT+0530 (India Standard Time)',
+  process: {
+    pid: 2838,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/suvamgayen/My Project/go-mart-backend',
+    execPath: '/usr/local/bin/node',
+    version: 'v14.17.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/suvamgayen/My Project/go-mart-backend/app.js'
+    ],
+    memoryUsage: {
+      rss: 62410752,
+      heapTotal: 34721792,
+      heapUsed: 22638544,
+      external: 20075273,
+      arrayBuffers: 18517558
+    }
+  },
+  os: {
+    loadavg: [ 2.55810546875, 2.6123046875, 2.46630859375 ],
+    uptime: 5932
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/routes/payment.router.js',
+      function: null,
+      line: 8,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 957,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 88,
+      method: null,
+      native: false
+    },
+    {
+      column: 21,
+      file: '/Users/suvamgayen/My Project/go-mart-backend/app.js',
+      function: null,
+      line: 38,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 1068,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 1097,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 933,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 774,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/run_main.js',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 72,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'internal/main/run_main_module.js',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-04-16T12:09:13.397Z'
+}

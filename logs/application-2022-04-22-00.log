@@ -1,0 +1,10 @@
+{
+  message: '::1 - - [21/Apr/2022:19:17:56 +0000] "GET /v1/category/homePage HTTP/1.1" - - "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-21T19:17:56.308Z'
+}
+{
+  message: '::1 - - [21/Apr/2022:19:20:47 +0000] "GET /v1/category/homePage HTTP/1.1" - - "-" "PostmanRuntime/7.29.0"\n',
+  level: 'info',
+  timestamp: '2022-04-21T19:20:47.466Z'
+}
