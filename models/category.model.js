@@ -2,9 +2,16 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 let category = new Schema({
-    icon: String,
+    icon: {
+        type:String,
+        default:'thumbnail.png'
+    },
     title: String,
-    forHomePageOnly: Boolean
+    forHomePageOnly: Boolean,
+    status:{
+        type:Boolean,
+        default: false
+    },
 }, {
     collection: "category",
     timestamps: true

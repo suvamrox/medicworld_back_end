@@ -1,0 +1,405 @@
+{
+  message: '::1 - - [29/May/2022:06:36:33 +0000] "GET /v1/banners/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:33.464Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:33 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:33.542Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:33 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:33.546Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:33 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:33.747Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:34 +0000] "GET /static/images/banners/banner1.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:34.649Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:34 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:34.657Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:34 +0000] "GET /static/images/banners/banner0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:34.658Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:39 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:39.663Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:36:46 +0000] "GET /static/images/banners/banner2.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:36:46.928Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /v1/banners/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.319Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.391Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.394Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /static/images/banners/banner1.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.444Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /static/images/banners/banner0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.446Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.450Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.503Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:32 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:32.595Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:52 +0000] "OPTIONS /v1/user/login HTTP/1.1" 200 4 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:52.385Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:37:53 +0000] "POST /v1/user/login HTTP/1.1" 200 41 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:37:53.238Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:38:23 +0000] "OPTIONS /v1/user/login/otp-submit HTTP/1.1" 200 4 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:38:23.376Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:38:23 +0000] "POST /v1/user/login/otp-submit HTTP/1.1" 200 270 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:38:23.562Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:38:26 +0000] "POST /v1/user/login/otp-submit HTTP/1.1" 200 270 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:38:26.033Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:38:35 +0000] "OPTIONS /v1/user/login/otp-submit HTTP/1.1" 200 4 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:38:35.826Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:38:35 +0000] "POST /v1/user/login/otp-submit HTTP/1.1" 200 270 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:38:35.991Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:54 +0000] "GET /v1/banners/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:54.953Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:55 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:55.104Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:55 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:55.107Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:55 +0000] "GET /static/images/banners/banner1.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:55.609Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:55 +0000] "GET /static/images/banners/banner0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:55.612Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:55 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:55.613Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:55 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:55.743Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:39:55 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:39:55.835Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:15 +0000] "OPTIONS /v1/user/login HTTP/1.1" 200 4 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:15.740Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:16 +0000] "POST /v1/user/login HTTP/1.1" 200 41 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:16.465Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:28 +0000] "OPTIONS /v1/user/login/otp-submit HTTP/1.1" 200 4 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:28.830Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:28 +0000] "POST /v1/user/login/otp-submit HTTP/1.1" 200 270 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:28.997Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:32 +0000] "GET /v1/banners/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:32.635Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:32 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:32.707Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:32 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:32.710Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:40:32 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:40:32.797Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:44:29 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:44:29.491Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:46:27 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:46:27.117Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:46:48 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:46:48.612Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:48:00 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:48:00.742Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:48:36 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:48:36.295Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:48:43 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:48:43.477Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:56:48 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:56:48.795Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:57:05 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:57:05.338Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:58:30 +0000] "OPTIONS /v1/user/address HTTP/1.1" 200 26 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:58:30.082Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:58:30 +0000] "GET /v1/user/address HTTP/1.1" 200 11 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:58:30.198Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:58:30 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:58:30.994Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:59:15 +0000] "OPTIONS /v1/user/address HTTP/1.1" 200 26 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:59:15.303Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:59:15 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:59:15.368Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:59:15 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:59:15.398Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:59:56 +0000] "OPTIONS /v1/user/address HTTP/1.1" 200 26 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:59:56.271Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:59:56 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:59:56.323Z'
+}
+{
+  message: '::1 - - [29/May/2022:06:59:56 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T06:59:56.352Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:08:25 +0000] "OPTIONS /v1/user/address HTTP/1.1" 200 26 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:08:25.549Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:08:25 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:08:25.598Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:08:25 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:08:25.639Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:10:40 +0000] "OPTIONS /v1/user/address HTTP/1.1" 200 26 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:10:40.691Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:10:40 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:10:40.748Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:10:40 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:10:40.782Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:10:56 +0000] "OPTIONS /v1/user/address HTTP/1.1" 200 26 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:10:56.098Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:10:56 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:10:56.181Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:10:57 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:10:57.512Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:00 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:00.796Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:04 +0000] "GET /v1/banners/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:04.465Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:04 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:04.529Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:04 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:04.532Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:04 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:04.783Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:05 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:05.466Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:05 +0000] "GET /static/images/banners/banner0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:05.470Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:05 +0000] "GET /static/images/banners/banner1.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:05.471Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:19 +0000] "GET /v1/banners/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:19.627Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:19 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:19.703Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:19 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:19.704Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:19 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:19.795Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:19 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:19.882Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:23 +0000] "OPTIONS /v1/user/address HTTP/1.1" 200 26 "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:23.348Z'
+}
+{
+  message: '::1 - - [29/May/2022:07:11:23 +0000] "GET /v1/user/address HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"\n',
+  level: 'info',
+  timestamp: '2022-05-29T07:11:23.437Z'
+}

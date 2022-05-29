@@ -1,0 +1,205 @@
+{
+  message: '::1 - - [21/May/2022:14:34:43 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:34:43.062Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:34:43 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:34:43.244Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:34:56 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:34:56.495Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:34:56 +0000] "GET /v1/admin/category HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:34:56.654Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:35:27 +0000] "OPTIONS /v1/admin/product HTTP/1.1" 200 17 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:35:27.592Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:35:27 +0000] "POST /v1/admin/product HTTP/1.1" 200 347 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:35:27.918Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:35:33 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:35:33.986Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:35:34 +0000] "GET /v1/admin/products HTTP/1.1" 200 3610 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:35:34.152Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:35:59 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:35:59.060Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:35:59 +0000] "GET /v1/admin/category HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:35:59.227Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:36:22 +0000] "OPTIONS /v1/admin/product HTTP/1.1" 200 17 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:36:22.065Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:36:22 +0000] "POST /v1/admin/product HTTP/1.1" 200 330 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:36:22.312Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:36:31 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:36:31.657Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:36:31 +0000] "GET /v1/admin/products HTTP/1.1" 200 3941 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:36:31.831Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:42:48 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:42:48.062Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:42:48 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:42:48.229Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:44:22 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:44:22.970Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:44:23 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:44:23.138Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:46:08 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:46:08.664Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:46:08 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:46:08.831Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:46:34 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:46:34.380Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:46:34 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:46:34.547Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:46:57 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:46:57.132Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:46:57 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:46:57.292Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:47:12 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:47:12.083Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:47:12 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:47:12.245Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:47:30 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:47:30.203Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:47:30 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:47:30.363Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:47:40 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:47:40.555Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:48:09 +0000] "GET /v1/admin/products HTTP/1.1" - - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:48:09.599Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:48:14 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:48:14.981Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:48:17 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:48:17.461Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:48:53 +0000] "GET /v1/admin/category HTTP/1.1" - - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:48:53.737Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:48:53 +0000] "GET /v1/admin/products HTTP/1.1" - - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:48:53.738Z'
+}
+{
+  message: '::1 - - [21/May/2022:14:48:53 +0000] "GET /v1/admin/products HTTP/1.1" - - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T14:48:53.739Z'
+}
+{
+  message: '::1 - - [21/May/2022:15:00:58 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T15:00:58.960Z'
+}
+{
+  message: '::1 - - [21/May/2022:15:01:08 +0000] "GET /v1/admin/products HTTP/1.1" 500 75 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T15:01:08.985Z'
+}
+{
+  message: '::1 - - [21/May/2022:15:02:50 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T15:02:50.828Z'
+}
+{
+  message: '::1 - - [21/May/2022:15:02:52 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T15:02:52.336Z'
+}
+{
+  message: '::1 - - [21/May/2022:15:03:00 +0000] "GET /v1/admin/category HTTP/1.1" 500 75 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T15:03:00.855Z'
+}
+{
+  message: '::1 - - [21/May/2022:15:03:02 +0000] "GET /v1/admin/products HTTP/1.1" 500 75 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-21T15:03:02.353Z'
+}

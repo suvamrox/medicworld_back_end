@@ -21,11 +21,16 @@ const UsersSchema = new Schema({
     fullName: String,
     addressLine1: String,
     addressLine2: String,
-    state: String,
-    city: String,
     zipCode: Number,
+    city: String,
+    state: String,
+    country: String,
+    landmark: String,
     phone: Number,
-    landmark: String
+    primary:{
+      type:Boolean,
+      default:false
+    }
   }],
   device: {
     device_id: String,

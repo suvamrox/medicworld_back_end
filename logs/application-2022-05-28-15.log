@@ -1,0 +1,460 @@
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.709Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.732Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.921Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.924Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.930Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.932Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.934Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:45 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:45.938Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:46 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:46.002Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:46 +0000] "GET /v1/category/626d803203c92428d20efd43/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:46.013Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:46 +0000] "GET /v1/category/626d806403c92428d20efd4a/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:46.020Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:46 +0000] "GET /v1/category/626d807c03c92428d20efd4f/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:46.024Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:46 +0000] "GET /v1/category/626eaa6235599f08ed4adbd7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:46.041Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:46 +0000] "GET /v1/category/6270d6b787274209ec65042c/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:46.049Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:46 +0000] "GET /v1/category/6270d6da87274209ec650432/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:46.083Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:54 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:54.900Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:54 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:54.907Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6262fc7b2ccfac053fecb1ce/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.101Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6262fd732ccfac053fecb1d7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.104Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6262fd942ccfac053fecb1dd/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.109Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6262fda32ccfac053fecb1e0/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.111Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6262fdba2ccfac053fecb1e3/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.124Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6262fdde2ccfac053fecb1e9/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.127Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6262fdf52ccfac053fecb1ec/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.184Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/626d803203c92428d20efd43/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.186Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/626d806403c92428d20efd4a/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.198Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/626d807c03c92428d20efd4f/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.200Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/626eaa6235599f08ed4adbd7/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.207Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6270d6b787274209ec65042c/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.209Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:57:55 +0000] "GET /v1/category/6270d6da87274209ec650432/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:57:55.269Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:16 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:16.255Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:16 +0000] "GET /v1/admin/products HTTP/1.1" 200 2 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:16.420Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:19 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:19.373Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:19 +0000] "GET /v1/admin/category HTTP/1.1" 200 2 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:19.536Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:56 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:56.189Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:56 +0000] "POST /v1/admin/category HTTP/1.1" 200 202 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:56.455Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:57 +0000] "GET /v1/admin/category HTTP/1.1" 200 204 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:57.201Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:57 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 200 87175 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:57.227Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:59 +0000] "GET /static/images/category/626ea7e84191af04fee5cd21/thumbnail.png HTTP/1.1" 404 200 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:59.523Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:59 +0000] "GET /static/images/category/6262fdcf2ccfac053fecb1e6/thumbnail.png HTTP/1.1" 404 200 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:59.525Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:59 +0000] "GET /static/images/category/6262fd8c2ccfac053fecb1da/thumbnail.png HTTP/1.1" 404 200 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:59.528Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:59 +0000] "GET /static/images/category/6262fc992ccfac053fecb1d1/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:59.530Z'
+}
+{
+  message: '::1 - - [28/May/2022:09:59:59 +0000] "GET /static/images/category/6262fcb32ccfac053fecb1d4/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T09:59:59.533Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:00:03 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 200 204 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:00:03.154Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:00:03 +0000] "GET /v1/category/homePage HTTP/1.1" 200 2 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:00:03.156Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:00:03 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:00:03.962Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:01:57 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:01:57.042Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:01:57 +0000] "POST /v1/admin/category HTTP/1.1" 200 206 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:01:57.314Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:01:58 +0000] "GET /v1/admin/category HTTP/1.1" 200 411 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:01:58.030Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:01:58 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:01:58.046Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:01:58 +0000] "GET /static/images/category/6291f315a701760816dea9d2/thumbnail.png HTTP/1.1" 200 15787 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:01:58.051Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:01 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:01.976Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:01 +0000] "GET /v1/category/homePage HTTP/1.1" 200 208 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:01.978Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:02 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 200 2 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:02.180Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:02 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:02.742Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:09 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:09.474Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:09 +0000] "GET /v1/admin/products HTTP/1.1" 304 - "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:09.655Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:11 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:11.365Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:11 +0000] "GET /v1/admin/category HTTP/1.1" 304 - "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:11.542Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:55 +0000] "OPTIONS /v1/admin/product HTTP/1.1" 200 17 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:55.522Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:55 +0000] "POST /v1/admin/product HTTP/1.1" 200 345 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:55.796Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:58 +0000] "OPTIONS /v1/admin/category HTTP/1.1" 200 19 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:58.200Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:58 +0000] "GET /v1/admin/category HTTP/1.1" 304 - "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:58.378Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:58 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:58.394Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:58 +0000] "GET /static/images/category/6291f315a701760816dea9d2/thumbnail.png HTTP/1.1" 304 - "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:58.397Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:58 +0000] "OPTIONS /v1/admin/products HTTP/1.1" 200 8 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:58.750Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:02:58 +0000] "GET /v1/admin/products HTTP/1.1" 200 354 "http://localhost:8101/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:02:58.932Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:03:42 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:03:42.918Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:03:42 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:03:42.920Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:03:43 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 200 354 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:03:43.095Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:03:43 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:03:43.648Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:29 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:29.754Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:29 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:29.756Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:29 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:29.903Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:30 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:30.488Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:30 +0000] "GET /static/images/product/6291f34fa701760816dea9df/ HTTP/1.1" 404 186 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:30.515Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:50 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:50.916Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:50 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:50.918Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:51 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:51.313Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:51 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:51.928Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:07:51 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 200 33186 "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:07:51.993Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:08:27 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:08:27.456Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:08:27 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:08:27.459Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:08:27 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:08:27.631Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:08:28 +0000] "GET /static/images/category/6291f29ca701760816dea9ca/thumbnail.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:08:28.161Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:08:28 +0000] "GET /static/images/product/6291f34fa701760816dea9df/0.png HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:08:28.231Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:18:57 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:18:57.705Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:18:57 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:18:57.715Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:18:57 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:18:57.897Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:19:01 +0000] "GET /v1/category/listWithIcon HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:19:01.227Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:19:01 +0000] "GET /v1/category/homePage HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:19:01.228Z'
+}
+{
+  message: '::1 - - [28/May/2022:10:19:01 +0000] "GET /v1/category/6291f315a701760816dea9d2/products HTTP/1.1" 304 - "http://localhost:8100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36"\n',
+  level: 'info',
+  timestamp: '2022-05-28T10:19:01.479Z'
+}

@@ -1,5 +1,0 @@
-{
-  message: '::1 - - [22/Apr/2022:19:31:11 +0000] "GET /v1/category/6262fc992ccfac053fecb1d1/products HTTP/1.1" 200 1189 "-" "PostmanRuntime/7.29.0"\n',
-  level: 'info',
-  timestamp: '2022-04-22T19:31:11.155Z'
-}

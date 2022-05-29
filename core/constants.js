@@ -38,7 +38,8 @@ const statusMessage = {
 
 const filePath = {
     product_image_url: '/static/images/product',
-    product_image_hdd_path: 'public/images/product'
+    product_image_hdd_path: 'public/images/product',
+    category_image_hdd_path: 'public/images/category'
 }
 
 module.exports = {

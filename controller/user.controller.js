@@ -231,22 +231,26 @@ exports.profileUpdate = (req, res, next) => {
 
 exports.addAddress = (req, res, next) => {
   let {
-    address_line,
-    zip_code,
+    fullName,
+    addressLine1,
+    addressLine2,
+    zipCode,
     city,
     state,
-    address_type,
+    country,
     landmark,
-    phone,
+    phone
   } = req.body;
   User.findByIdAndUpdate(req.user._id, {
     $push: {
       addresses: {
-        address_line,
-        zip_code,
+        fullName,
+        addressLine1,
+        addressLine2,
+        zipCode,
         city,
         state,
-        address_type,
+        country,
         landmark,
         phone: phone || req.user.phone
       },

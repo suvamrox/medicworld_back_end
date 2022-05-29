@@ -7,11 +7,15 @@ router.post('/admin/login', AdminController.login);
 
 router.post('/admin/login/otp', AdminController.otp);
 
-router.get('/admin/category', passport.authenticate('adminJWT', { session: false }), AdminController.getCategory);
+router.get('/admin/category', passport.authenticate('adminJWT', { session: false }), AdminController.getCategories);
+
+router.get('/admin/category/:id', passport.authenticate('adminJWT', { session: false }), AdminController.category);
+
+router.patch('/admin/category', passport.authenticate('adminJWT', { session: false }), AdminController.patchCategory);
 
 router.post('/admin/category', passport.authenticate('adminJWT', { session: false }), AdminController.addCategory);
 
-router.get('/admin/product', passport.authenticate('adminJWT', { session: false }), AdminController.productList);
+router.get('/admin/products', passport.authenticate('adminJWT', { session: false }), AdminController.productList);
 
 router.get('/admin/product/:id', passport.authenticate('adminJWT', { session: false }), AdminController.productDetails);
 

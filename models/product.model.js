@@ -5,6 +5,7 @@ const ProductsSchema = new Schema({
   // _id: Schema.Types.ObjectId,
   title: String,
   tagLine: String, // for short setails
+  tagLine: String, // for short setails
   categories: [{
     type: Schema.Types.ObjectId,
     ref: 'category',
@@ -14,7 +15,7 @@ const ProductsSchema = new Schema({
   actualPrice: Number, // $15
   discountPercentage: Number, //5%
   sellingPrice: Number, // $15
-  image: [String], // for food image
+  images: [String], // for food image
   // !admin only control this
   status: {
     type: Boolean, // 0->deactive ,1->active

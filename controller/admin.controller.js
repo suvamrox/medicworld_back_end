@@ -9,7 +9,7 @@ let { userLogInOtpSend } = require('../helper/sms');
 let { adminJWT } = require('../helper/jwt');
 let apiError = require("../core/apiError");
 let appRoot = require('app-root-path');
-let { uploadImages } = require('../helper/file');
+let { uploadImages, uploadImage } = require('../helper/file');
 
 exports.login = (req, res, next) => {
     AdminModel.findOne({
@@ -83,23 +83,8 @@ exports.otp = (req, res, next) => {
     })
 }
 
-exports.getCategory = (req, res, next) => {
+exports.getCategories = (req, res, next) => {
     CategoryModel.find({}).exec((err, doc) => {
-        if (err) next(err)
-        else { }
-        res.status(httpStatusCodes.HTTP_SUCCESS).json(doc);
-    });
-}
-
-
-exports.addCategory = (req, res, next) => {
-    let { title, forHomePageOnly } = req.body;
-    let newCategory = new CategoryModel({
-        title,
-        forHomePageOnly
-    });
-
-    newCategory.save((err, doc) => {
         if (err) next(err)
         else {
             res.status(httpStatusCodes.HTTP_SUCCESS).json(doc);
@@ -107,9 +92,77 @@ exports.addCategory = (req, res, next) => {
     });
 }
 
+exports.category = (req, res, next) => {
+    CategoryModel.findById(req.params.id).exec((err, doc) => {
+        if (err) next(err)
+        else {
+            res.status(httpStatusCodes.HTTP_SUCCESS).json(doc);
+        }
+    });
+}
+
+exports.patchCategory = (req, res, nex) => {
+    let { _id, title, forHomePageOnly, status, icon } = req.body;
+    CategoryModel.findByIdAndUpdate(_id, {
+        $set: {
+            title,
+            forHomePageOnly,
+            status
+        }
+    }, (err, doc) => {
+        if (err) next(err);
+        else if (!doc) res.status(httpStatusCodes.NOT_FOUND).json(doc);
+        else {
+            if (icon) {
+                uploadImage(`${appRoot}/${filePath.category_image_hdd_path}/${doc.id}`, icon, (filesName) => {
+                    CategoryModel.findByIdAndUpdate(doc.id, {
+                        $set: {
+                            icon: filesName
+                        }
+                    }, (err, doc) => {
+                        if (err) next(err);
+                        else res.status(httpStatusCodes.HTTP_SUCCESS).json(doc);
+                    })
+                });
+            } else res.status(httpStatusCodes.HTTP_SUCCESS).json(doc);
+        }
+    })
+}
+
+exports.addCategory = (req, res, next) => {
+    let { title, forHomePageOnly, icon, status } = req.body;
+    let newCategory = new CategoryModel({
+        title,
+        forHomePageOnly,
+        status
+    });
+
+    newCategory.save((err, doc) => {
+        if (err) next(err);
+        else {
+            uploadImage(`${appRoot}/${filePath.category_image_hdd_path}/${doc.id}`, icon, (filesName) => {
+                CategoryModel.findByIdAndUpdate(doc.id, {
+                    $set: {
+                        icon: filesName
+                    }
+                }, (err, doc) => {
+                    if (err) next(err);
+                    else res.status(httpStatusCodes.HTTP_SUCCESS).json(doc);
+                })
+            });
+        }
+    });
+}
+
 
 exports.productList = (req, res, next) => {
-
+    ProductModel.find((err, doc) => {
+        if (err) {
+            next(next);
+        } else { 
+            res.status(httpStatusCodes.HTTP_SUCCESS).json(doc);
+        }
+    });
 }
 
 exports.productDetails = (req, res, next) => {
@@ -135,7 +188,7 @@ exports.productAdd = (req, res, next) => {
             uploadImages(`${appRoot}/${filePath.product_image_hdd_path}/${p.id}`, req.body.images, (filesName) => {
                 ProductModel.findByIdAndUpdate(p.id, {
                     $set: {
-                        image: filesName
+                        images: filesName
                     }
                 }, (err, doc) => {
                     if (err) next(err);

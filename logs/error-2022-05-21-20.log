@@ -1,0 +1,36 @@
+{
+  message: {
+    endpoint: 'GET  http://localhost:3000/v1/admin/products',
+    ip: '::1',
+    error: MongooseError: Operation `admin.findOne()` buffering timed out after 10000ms
+        at Timeout.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)
+        at listOnTimeout (internal/timers.js:555:17)
+        at processTimers (internal/timers.js:498:7)
+  },
+  level: 'error',
+  timestamp: '2022-05-21T15:01:08.982Z'
+}
+{
+  message: {
+    endpoint: 'GET  http://localhost:3000/v1/admin/category',
+    ip: '::1',
+    error: MongooseError: Operation `admin.findOne()` buffering timed out after 10000ms
+        at Timeout.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)
+        at listOnTimeout (internal/timers.js:555:17)
+        at processTimers (internal/timers.js:498:7)
+  },
+  level: 'error',
+  timestamp: '2022-05-21T15:03:00.852Z'
+}
+{
+  message: {
+    endpoint: 'GET  http://localhost:3000/v1/admin/products',
+    ip: '::1',
+    error: MongooseError: Operation `admin.findOne()` buffering timed out after 10000ms
+        at Timeout.<anonymous> (/Users/suvamgayen/My Project/go-mart-backend/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)
+        at listOnTimeout (internal/timers.js:555:17)
+        at processTimers (internal/timers.js:498:7)
+  },
+  level: 'error',
+  timestamp: '2022-05-21T15:03:02.350Z'
+}
